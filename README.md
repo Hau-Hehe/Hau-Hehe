@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Hau-Hehe/Hau-Hehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Spring Boot Full-Stack Journey & Algorithms
 
-Here are some ideas to get you started:
+Hi there! 👋 I'm Hau, a passionate developer on my way to mastering **Full-Stack Java Spring Boot** and building scalable **Microservices** ecosystems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Learning Roadmap
+
+🧱 Backend Mastery (Main Focus)
+* **Core:** Java (OOP, Collections, Stream API, Concurrency)
+* **Framework:** Spring Boot (Spring Security, Spring Data JPA, Spring MVC)
+* **Architecture:** Monolithic to **Microservices** (Spring Cloud Gateway, Eureka Discovery, Config Server)
+* **Database:** MySQL / PostgreSQL & Redis Caching
+
+🎨 Frontend Integration
+* **UI/UX:** HTML5, CSS3, JavaScript (ES6+)
+* **Frameworks:** React.js, Tailwind CSS, Redux / Redux Toolkit
+
+⚙️ DevOps & Tools
+* **Build Tools:** Maven / Gradle
+* **IDE:** Apache NetBeans / IntelliJ IDEA
+* **Version Control:** Git & GitHub
