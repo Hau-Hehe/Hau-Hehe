@@ -1,22 +1,22 @@
-Hi there 👋
+Hi there,
 
-🚀 Java Spring Boot Full-Stack Journey & Algorithms
+Java Spring Boot Full-Stack Journey & Algorithms
 
-Hi there! 👋 I'm Hau, a passionate developer on my way to mastering **Full-Stack Java Spring Boot** and building scalable **Microservices** ecosystems. 
+Hi there! I'm Hau, a passionate developer on my way to mastering **Full-Stack Java Spring Boot** and building scalable **Microservices** ecosystems. 
 
-🛠️ Tech Stack & Learning Roadmap
+Tech Stack & Learning Roadmap
 
-🧱 Backend Mastery (Main Focus)
+Backend Mastery (Main Focus)
 * **Core:** Java (OOP, Collections, Stream API, Concurrency)
 * **Framework:** Spring Boot (Spring Security, Spring Data JPA, Spring MVC)
 * **Architecture:** Monolithic to **Microservices** (Spring Cloud Gateway, Eureka Discovery, Config Server)
 * **Database:** MySQL & Redis Caching
 
-🎨 Frontend Integration
+Frontend Integration
 * **UI/UX:** HTML5, CSS3, JavaScript
 * **Frameworks:** React.js, Tailwind CSS, Redux / Redux Toolkit
 
-⚙️ DevOps & Tools
+DevOps & Tools
 * **Build Tools:** Maven / Gradle
 * **IDE:** Apache NetBeans / IntelliJ IDEA
 * **Version Control:** Git & GitHub
