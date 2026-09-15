@@ -1,6 +1,6 @@
 Hi there,
 
-Java Spring Boot Full-Stack Journey & Algorithms
+<p>Java Spring Boot Full-Stack Journey & Algorithms</p>
 
 Hi there! I'm Hau, a passionate developer on my way to mastering **Full-Stack Java Spring Boot** and building scalable **Microservices** ecosystems. 
 
