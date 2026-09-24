@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ I'm 21 years old and I'm a normal student just learn how to code.</p>
+<p data-importer="text" align="left">✨ I'm 21 years old and I'm a normal student just learn how to code. Want to become a Senior SWE in someday.</p>
 
 ###
 
@@ -46,18 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h3 data-importer="text" align="center">That's all about me!!!</h3>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.gifer.com/yB.gif"  />
 </div>
 
 ###
